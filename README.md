@@ -75,6 +75,6 @@ PS 사이트 배지가 있다면 연결해보자
 
 ------
 
-Credit : [Jh-jaehyuk](https://github.com/jh-jaehyuk)
+Credit : [younghyen7956](https://github.com/younghyen7956)
 
-Last Edited On: 22/08/2024
+Last Edited On: 31/08/2024
