@@ -31,8 +31,8 @@
 아래는 작성 예시
 ```
 
-- **[CS Study](https://github.com/jh-jaehyuk/cs-study)**
-- **[LLM Study](https://github.com/jh-jaehyuk/llm-study)**
+- **[CS Study](https://github.com/younghyen7956/cs-study)**
+- **[LLM Study](https://github.com/younghyen7956/llm-study)**
 
 ### Some awesome repos that Me and My team members have made:
 ```
@@ -69,7 +69,7 @@
 PS 사이트 배지가 있다면 연결해보자
 ```
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=J213h)](https://solved.ac/J213h)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyh1234)](https://solved.ac/yoyh1234)
 
 ### Thank you for visiting my profile 🤓 
 
