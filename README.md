@@ -8,14 +8,9 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-```
-아래는 작성 예시
-본인의 취향에 맞게 수정해서 사용할 것!
-```
-
 🎓 Major is **Mechanical System Design Engineering**.
-🌱 I'm currently learning **AI**(*especially LLM*) and **Python**.
-🤔 My hobbies are **working out**🏋️ and **playing games**🎮.
+🌱 I'm currently learning **AI**(*especially LLM*) and **Spring** and **DA(Data Analysis)**.
+🤔 My hobbies are **squah**🎾 and **playing games**🎮.
 📝 Sometimes I write articles on [**My website**](https://younghyen7956.github.io)
 💬 If you have any questions, just ask me.
 
@@ -26,19 +21,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=younghyen7956)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Some of my personal project(or study) repositories:
-```
-개인 프로젝트 또는 개인 공부 레포지토리 연결
-아래는 작성 예시
-```
 
 - **[CS Study](https://github.com/younghyen7956/cs-study)**
 - **[LLM Study](https://github.com/younghyen7956/llm-study)**
 
 ### Some awesome repos that Me and My team members have made:
-```
-팀 프로젝트 레포지토리 연결
-아래는 작성 예시
-```
 
 - **[Hotelbusterz - Hotel Reservartion Web Application](https://github.com/Jh-jaehyuk/SKN01-2nd-5Team)**
 - **[Text Chat Programmers - Building CI/CD by using Github Actions](https://github.com/Jh-jaehyuk/SKN01-3nd-1Team)**
