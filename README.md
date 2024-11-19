@@ -2,7 +2,7 @@
 
 <img src="https://profile-counter.glitch.me/<younghyen7956>/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/younghyen7956.svg?style=social&label=Followers)](https://github.com/jh-jaehyuk?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/younghyen7956.svg?style=social&label=Followers)](https://github.com/younghyen7956?tab=followers)
 
 <h3> Here's some fun facts about me: </h3>
 
