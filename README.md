@@ -6,7 +6,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-🎓 Major is **Mechanical System Design Engineering**.  
+🎓 Major is **Statistics**.  
 🌱 I'm currently learning **AI**(*especially LLM*) and **Spring** and **DA(Data Analysis)**.  
 🤔 My hobbies are **squah**🎾 and **playing games**🎮.  
 📝 Sometimes I write articles on [**My website**](https://younghyen7956.github.io)  
