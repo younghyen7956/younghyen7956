@@ -24,8 +24,8 @@
 
 ### Some awesome repos that Me and My team members have made:
 
-- **[Hotelbusterz - Hotel Reservartion Web Application](https://github.com/Jh-jaehyuk/SKN01-2nd-5Team)**
-- **[Text Chat Programmers - Building CI/CD by using Github Actions](https://github.com/Jh-jaehyuk/SKN01-3nd-1Team)**
+- **[I'm Chonskic - Emoticon Service](https://github.com/younghyen7956/SKN01-2nd-2Team)**
+- **[Great Talking Potato(GTP) - Building CI/CD by using Github Actions](https://github.com/younghyen7956/SKN01-3nd-5Team)**
 
 
 ### Here's the languages that I am currently working on:
@@ -37,7 +37,6 @@
 ```
 
 <p>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=000&style=flat"></a>
